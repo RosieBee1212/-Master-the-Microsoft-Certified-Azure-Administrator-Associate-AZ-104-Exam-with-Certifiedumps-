@@ -2,6 +2,8 @@
 
 Are you ready to take charge of managing Azure resources and infrastructure? 🌟 The[ Microsoft Certified: Azure Administrator Associate (AZ-104) exam](https://www.certifiedumps.com/microsoft/az-104-dumps.html) is your opportunity to showcase your expertise in implementing, managing, and monitoring Azure environments. 🎓 With **Certifiedumps** providing **100% verified exam dumps**, you’ll have the resources needed to pass the exam and excel in your career! 💪
 
+![az-104](https://github.com/user-attachments/assets/610169bc-4d8c-46f5-b897-be241fab5d1d)
+
 ## 📘 What is the AZ-104 Exam?
 
 The **AZ-104** exam focuses on the day-to-day tasks of an Azure administrator, such as managing storage, virtual machines, identity, and governance. It’s a great way to validate your skills in Azure resource management, and it’s essential for anyone looking to advance in Azure operations. ☁️
